@@ -32,6 +32,6 @@
 </p>
 
 <p style="margin:50px 0;">
-<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenhizarci&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenhizarci&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mustafaerenhizarci&theme=algolia&show_icons=true"/>
 </p>
