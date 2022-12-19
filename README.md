@@ -1,17 +1,15 @@
 
+
 <h1 style="font-weight:300;">Mustafa Eren Hızarcı</h1>
 <p>Hi! I'm a computer engineering student and junior developer from turkey.</p>
 
+<h4 style="font-weight:300">Contact Me: </h1>
 
-<h1 style="font-weight:300">Contact Me: </h1>
 <p>
-
-<a href="https://mustafaerenhizarci.site">Website</a>
-
-
+<a target="_blank" href="https://mustafaerenhizarci.site"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a target="_blank" href="mailto:hizarcimustafaeren@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/mustafaerenhizarci/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-
 
 <h1 style="font-weight:300;">My Tech Stack:</h1>
 <p style="margin:10px 0;">
@@ -33,9 +31,7 @@
   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
-
 <p style="margin:50px 0;">
 <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenhizarci&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mustafaerenhizarci&theme=algolia&show_icons=true"/>
 </p>
-
