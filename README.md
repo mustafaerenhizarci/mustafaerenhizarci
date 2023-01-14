@@ -31,7 +31,4 @@
   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
-<p style="margin:50px 0;">
-<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerenhizarci&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mustafaerenhizarci&theme=algolia&show_icons=true"/>
-</p>
+
