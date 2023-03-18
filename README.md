@@ -6,7 +6,7 @@
 <h4 style="font-weight:300">Contact Me: </h1>
 
 <p>
-<a target="_blank" href="https://mustafaerenhizarci.site"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a target="_blank" href="https://mustafaerenhizarci.me"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a target="_blank" href="mailto:hizarcimustafaeren@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/mustafaerenhizarci/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
